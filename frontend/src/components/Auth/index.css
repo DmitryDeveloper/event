@@ -1,0 +1,22 @@
+.loginPage {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    color: #FFFFFF;
+    min-width: 90%;
+}
+
+.loginPage h2 {
+    padding-bottom: 20px;
+}
+
+.loginPage a {
+    color: yellowgreen;
+}
+
+.loginPage button {
+
+}

@@ -1,0 +1,8 @@
+.sidebar {
+    width: 15%;
+    background: slategrey;
+}
+
+.none {
+    display: none;
+}
